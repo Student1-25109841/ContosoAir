@@ -30,7 +30,7 @@ steps:
   inputs:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'Azure Connection'
-    subscriptionId: 'cd5624ee-c42c-4f43-9c6d-4aea23072cf3'
+    subscriptionId: 
     action: 'Create Or Update Resource Group'
     resourceGroupName: '$(resourcegroup)'
     location: 'East US'
